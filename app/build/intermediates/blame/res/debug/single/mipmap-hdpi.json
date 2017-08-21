@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_back3.png",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/mipmap-hdpi/ic_back3.png"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_searchbutton.png",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/mipmap-hdpi/ic_searchbutton.png"
+    }
+]

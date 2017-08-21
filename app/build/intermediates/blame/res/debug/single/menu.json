@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/menu/main.xml"
+    }
+]

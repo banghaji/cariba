@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/snackbar_in.xml",
+        "source": "/home/bimasakti/.android/build-cache/8eb98b35def965584f01ff3b1826af58a5171c00/output/res/anim/snackbar_in.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/fab_in.xml",
+        "source": "/home/bimasakti/.android/build-cache/8eb98b35def965584f01ff3b1826af58a5171c00/output/res/anim/fab_in.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/slide_in_still.xml",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/anim/slide_in_still.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/slide_in.xml",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/anim/slide_in.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/snackbar_out.xml",
+        "source": "/home/bimasakti/.android/build-cache/8eb98b35def965584f01ff3b1826af58a5171c00/output/res/anim/snackbar_out.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/fab_out.xml",
+        "source": "/home/bimasakti/.android/build-cache/8eb98b35def965584f01ff3b1826af58a5171c00/output/res/anim/fab_out.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/slide_out.xml",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/anim/slide_out.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/anim/slide_out_still.xml",
+        "source": "/home/bimasakti/AndroidStudioProjects/Google/app/src/main/res/anim/slide_out_still.xml"
+    }
+]

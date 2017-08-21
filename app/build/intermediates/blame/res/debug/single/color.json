@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/switch_thumb_material_dark.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/switch_thumb_material_light.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/home/bimasakti/AndroidStudioProjects/Google/app/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
+        "source": "/home/bimasakti/.android/build-cache/25bbe7c55f4e016823460e2b32b31ea9785f9ead/output/res/color/abc_primary_text_material_dark.xml"
+    }
+]
