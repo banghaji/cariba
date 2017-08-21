@@ -1,0 +1,52 @@
+<resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:windowContentOverlay">@dimen/dp50</item>
+    </style>
+
+    <!-- Material  Design -->
+    <style name="GoogleMaterialTheme" parent="GoogleMaterialTheme.Base">
+
+    </style>
+
+    <style name="GoogleMaterialTheme.Base" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="customTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabIndicatorColor">@color/googlekeep</item>
+        <item name="tabIndicatorHeight">2dp</item>
+        <item name="tabPaddingStart">12dp</item>
+        <item name="tabPaddingEnd">12dp</item>
+        <item name="android:textAllCaps">true</item>
+        <item name="android:dividerPadding">3dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">@color/colorAccent</item>
+        <item name="android:divider">@android:color/black</item>
+        <item name="tabBackground">@color/googlekeep</item>
+        <item name="android:textStyle">bold</item>
+        <item name="tabSelectedTextColor">@color/newlabel</item>
+    </style>
+
+    <style name="Toolbar.TitleText" parent="TextAppearance.Widget.AppCompat.Toolbar.Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:windowContentOverlay">@dimen/dp50</item>
+    </style>
+
+    <style name="GoogleMaterialTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" >
+        <item name="android:windowContentOverlay">@dimen/dp50</item>
+    </style>
+
+    <style name="GoogleMaterialTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+
+</resources>

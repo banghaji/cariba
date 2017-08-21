@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Google</string>
+    <string name="e_commerce">E-Commerce</string>
+    <string name="e_travel">Flight</string>
+    <string name="s">s</string>
+
+    <!-- String for intent -->
+    <string name="search_key">search_key</string>
+    <string name="name">name</string>
+    <string name="url">url</string>
+
+    <string name="tokopedia">tokopedia</string>
+    <string name="bukalapak">bukalapak</string>
+    <string name="lazada">lazada</string>
+    <string name="matahari">matahari</string>
+    <string name="blibli">blibli</string>
+    <string name="elevenia">elevenia</string>
+    <string name="undo">undo</string>
+    <string name="redo">redo</string>
+    <string name="tagecommerse">Satu pencarian\nuntuk semua\nEcommerse</string>
+    <string name="tagtravelagent">Satu pencarian\nuntuk semua\nPenerbangan</string>
+    <string name="app">Cariba</string>
+    <string name="hometag">Find your best product price</string>
+    <string name="urut">Urut</string>
+    <string name="xfilter">Filter</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="cheaper">cheaper</string>
+    <string name="vendor">vendor</string>
+    <string name="research">re-search</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="buy">Detail</string>
+</resources>

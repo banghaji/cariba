@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tab_max_width">264dp</dimen>
+    <dimen name="tab_padding_bottom">16dp</dimen>
+    <dimen name="tab_label">14sp</dimen>
+    <dimen name="custom_tab_layout_height">72dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_list_row">16dp</dimen>
+    <dimen name="messages_padding_left">72dp</dimen>
+    <dimen name="icon_width_height">40dp</dimen>
+    <dimen name="msg_text_primary">16sp</dimen>
+    <dimen name="msg_text_secondary">14sp</dimen>
+    <dimen name="icon_star">25dp</dimen>
+    <dimen name="icon_text">22dp</dimen>
+    <dimen name="timestamp">12dp</dimen>
+    <dimen name="default_elevation" format="float">1.0dip</dimen>
+    <dimen name="default_button_height" format="float">45.0dip</dimen>
+
+    <!-- button buy-->
+    <dimen name="buy_padding_top">10dp</dimen>
+    <dimen name="buy_width">30dp</dimen>
+    <!-- product image-->
+    <dimen name="img_padding">5dp</dimen>
+    <dimen name="img_dimen">100dp</dimen>
+    <dimen name="dp10">10dp</dimen>
+    <dimen name="dp15">15dp</dimen>
+    <dimen name="dp20">20dp</dimen>
+    <dimen name="dp25">25dp</dimen>
+    <dimen name="dp50">50dp</dimen>
+    <dimen name="dp40">40dp</dimen>
+    <dimen name="dp0">0dp</dimen>
+</resources>
